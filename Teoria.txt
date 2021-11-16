@@ -1,0 +1,19 @@
+O filósofo Copi (1978) define "o estudo da lógica é o estudo dos métodos e princípios usados para distinguir o racioncínio correto do incorreto".
+
+A lógica é um conhecimento que todos possuem e utilizam no dia a dia.
+
+No argumento a seguir, você tem duas premissas iniciais (a) e (b), que servem como evidências que sustentam a conclusão (c).
+
+
+    a) Gurupí pertence ao estado do Tocantins.
+    b) Tocantins é uma unidade federativa do Brasil.
+    c) Logo, Gurupí pertence ao Brasil.
+
+O filósofo Copi (1978) define que um racioncínio lógico falho pode levar a uma conclusão incorreta caso sejam feitas interpretações errôneas das evidências.
+
+A utilização de racioncínio lógico é algo tão trivial e natural para o ser humano, que estamos constantemente utilizando deste artifício, porém na maioria das vezes não percebemos.
+Como exemplo pense nos passos necessários para fritar um ovo.
+
+
+
+Agora descreva os passos que você executa ao levantar pela manhã e escovar os dentes.
